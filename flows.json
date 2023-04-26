@@ -1,0 +1,47 @@
+[
+    {
+        "id": "5b5b093657cb5cf1",
+        "type": "ui_numeric",
+        "z": "bf1d9e69b01e67eb",
+        "name": "",
+        "label": "Bit Mask 4",
+        "tooltip": "",
+        "group": "61285987.c20328",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "wrap": true,
+        "passthru": true,
+        "topic": "esp32/bitMask4",
+        "topicType": "str",
+        "format": "DEC",
+        "min": 0,
+        "max": "15",
+        "step": 1,
+        "className": "",
+        "x": 250,
+        "y": 1060,
+        "wires": [
+            [
+                "9eecf5cd18d63a02"
+            ]
+        ]
+    },
+    {
+        "id": "61285987.c20328",
+        "type": "ui_group",
+        "name": "Living room",
+        "tab": "e7c46d5e.a1283",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e7c46d5e.a1283",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard"
+    }
+]
