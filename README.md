@@ -1,2 +1,2 @@
-# STM32-ESP32-MQTT
-STM32 to ESP32 via UART, FreeRTOS, GUI - Node-red dashboard, MQTT broker, sensors
+# STM32F411 and ESP32 for monitoring and conrolling sensors and actuators with GUI
+Connecting STM32 and ESP32 via UART, MQTT broker, FreeRTOS, Node-RED dashboard.
